@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas (cali-arena)
 
-Backend & AI Engineer specialized in **Python, FastAPI, cloud-native systems, event-driven architectures, and automation with LLMs**.  
+Fullstack & AI Engineer specialized in **Python, FastAPI, cloud-native systems, event-driven architectures, and automation with LLMs**.  
 I build **scalable data-driven platforms**, fintech backends, AI/ML tooling, and end-to-end automation products.
 
 ---
